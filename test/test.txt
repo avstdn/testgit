@@ -1,4 +1,5 @@
 first commit
 second master commit
-new branch commit
+new branch commit   next
 master commit
+new branch commit after master commit
