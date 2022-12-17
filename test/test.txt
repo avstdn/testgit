@@ -4,3 +4,4 @@ new branch commit   next
 new branch commit after master commit
 new branch test merge to branch 1
 branch -1 commit
+
