@@ -4,3 +4,6 @@ new branch commit   next
 master commit
 new branch commit after master commit
 master test commit
+master test commit
+master test commit
+master test commit
